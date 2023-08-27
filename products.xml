@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="product_schema.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<products>
+
+    <product>
+    <id>1</id>
+    <name>Laptop</name>
+    <price>999.99</price>
+    <description>Powerful laptop with great features.</description>
+    </product>
+
+    <product>
+        <id>2</id>
+        <name>Smart Phone</name>
+        <price>499.99</price>
+        <description>Smart phone with amazing features.</description>
+    </product>
+
+
+    <product>
+        <id>3</id>
+        <name>Camera</name>
+        <price>499.99</price>
+        <description>Camera with good picture quality.</description>
+    </product>
+
+    <product>
+        <id>4</id>
+        <name>Portable Hard Disk</name>
+        <price>199.99</price>
+        <description>Portable Hard Disk with 1TB storage.</description>
+    </product>
+    
+</products>
